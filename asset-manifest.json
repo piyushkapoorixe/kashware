@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kashware/static/css/main.de242830.chunk.css",
+    "main.js": "/kashware/static/js/main.883e3a34.chunk.js",
+    "main.js.map": "/kashware/static/js/main.883e3a34.chunk.js.map",
+    "runtime-main.js": "/kashware/static/js/runtime-main.0219de2c.js",
+    "runtime-main.js.map": "/kashware/static/js/runtime-main.0219de2c.js.map",
+    "static/js/2.eac4a46c.chunk.js": "/kashware/static/js/2.eac4a46c.chunk.js",
+    "static/js/2.eac4a46c.chunk.js.map": "/kashware/static/js/2.eac4a46c.chunk.js.map",
+    "index.html": "/kashware/index.html",
+    "static/css/main.de242830.chunk.css.map": "/kashware/static/css/main.de242830.chunk.css.map",
+    "static/js/2.eac4a46c.chunk.js.LICENSE.txt": "/kashware/static/js/2.eac4a46c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0219de2c.js",
+    "static/js/2.eac4a46c.chunk.js",
+    "static/css/main.de242830.chunk.css",
+    "static/js/main.883e3a34.chunk.js"
+  ]
+}
